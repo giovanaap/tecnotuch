@@ -1,2 +1,0 @@
-# tecnotuchtuch
-Estudo de JavaScript.
